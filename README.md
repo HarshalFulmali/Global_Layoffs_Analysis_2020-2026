@@ -38,6 +38,7 @@ Dataset Source: (https://www.kaggle.com/datasets/swaptr/layoffs-2022)
 Dataset Columns
 
 | Column Name | Description |
+| --- | --- |
 | company | Name of the company conducting layoffs |
 | location | Specific company location |
 | total_laid_off | Total number of employees laid off |
@@ -52,6 +53,7 @@ Dataset Columns
 ### Tools & Technologies Used
 
 | Tools | Purpose |
+| --- | --- |
 | MySQL | Data analysis and querying |
 | Power BI | Interactive dashboard development |
 | CSV | Dataset storage and exchange |
